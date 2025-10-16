@@ -1,5 +1,5 @@
 The Last Defender
-August 2024 - April 2025
+August 2024 - April 2025 (8 months)
 
 I was the tech lead in this DigiPen 2D game C++/C# project consisting of 5 other programmers and 1 designer/artist. I mainly worked on core engine systems but also helped others in the team when they needed help with their game systems.
 
