@@ -1,0 +1,4 @@
+ChessAR
+June 2020 (2.5 weeks)
+
+I was the sole programmer working on this Nanyang Polytechnic UE4 AR Assignment alongside 1 artist. This was my second ever UE4 project, and with only 3 prior weeks of experience, it was a challenge to navigate this new engine with new AR technology within such a short timespan. Nevertheless I gave it my all and produced this small and simple application, where you can play chess on an android phone in an AR space.
