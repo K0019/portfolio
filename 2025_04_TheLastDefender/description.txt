@@ -1,0 +1,14 @@
+The Last Defender
+August 2024 - April 2025
+
+I was the tech lead in this DigiPen 2D game project consisting of 5 other programmers and 1 designer/artist. I mainly worked on core engine systems but also helped others in the team when they needed help with their game systems.
+
+Some of the systems that I worked on:
+- Engine architecture
+- ECS (Entity-Component System)
+- Scene Management
+- Physics
+- Scripting
+- Serialization
+- Camera Shake
+- And more.
