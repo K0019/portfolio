@@ -1,7 +1,7 @@
 Overthrone
 Janury 2024 - April 2024 (4 months)
 
-I was the tech lead in this DigiPen 2D action/adventure game project, that I also proposed the game idea of, consisting of 3 other programmers. I was very involved in our small team and worked closely with all the other members to implement all the features we could in the short span of time allocated for us. In this project, we built the engine on top of a small graphical interface provided by DigiPen.
+I was the tech lead in this DigiPen 2D action/adventure game C++ project, that I also proposed the game idea of, consisting of 3 other programmers. I was very involved in our small team and worked closely with all the other members to implement all the features we could in the short span of time allocated for us. In this project, we built the engine on top of a small graphical interface provided by DigiPen.
 
 Some notable systems that I worked on:
 - Engine architecture & GameObject system

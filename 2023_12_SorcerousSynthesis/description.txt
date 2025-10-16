@@ -1,0 +1,12 @@
+Sorcerous Synthesis
+August 2024 - December 2024 (4 months)
+
+I was the tech lead and project manager in this DigiPen 2D puzzle game C project, that I also proposed the game idea of, consisting of 4 other programmers. As this was the first game project for every other programmer in my team, I took on a mentorship role, guiding everyone on how to implement their features in code. In this project, we built the game on top of a simple engine base provided by DigiPen.
+
+Some notable systems that I worked on:
+- Engine architecture & GameObject system
+- Scene Management & Transition
+- File Loading
+- Camera & Screen Effect
+- Particles
+- Path drawing
