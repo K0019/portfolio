@@ -1,0 +1,11 @@
+Rumble Party
+September 2020 - November 2020 (3 months)
+
+This was my Final Year Project where I was the main programmer, alongside 1 other programmer and 2 artists, where we made this VR party game in UE4. I mainly worked on base mechanics like networking and VR input while the other programmer worked on the different game stages.
+
+Main areas that I worked on:
+- Networking
+- VR input
+- Player Character
+- Game 3 (Balloon Frenzy)
+- Main Menu
